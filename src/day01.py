@@ -1,5 +1,4 @@
 import time
-from typing import final
 
 from InputHelper import InputHelper
 
